@@ -79,19 +79,6 @@ An interactive Power BI dashboard was developed to visualize:
 * Weather conditions
 * Relationships between weather variables and shipment outcomes
 
-## Repository Structure
-
-```text
-├── data/          # Data documentation and permitted datasets
-├── notebooks/     # Jupyter notebooks used for analysis
-├── src/           # Python scripts
-├── sql/           # SQL/database scripts
-├── dashboard/     # Power BI dashboard or related files
-├── images/        # Dashboard and visualization screenshots
-├── requirements.txt
-└── README.md
-```
-
 ## Skills Demonstrated
 
 This project demonstrates experience with:
