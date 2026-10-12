@@ -1,6 +1,5 @@
 # Impact-of-Weather-on-U.S.-Shipment-Delays
 
-# Impact of Weather on U.S. Shipment Delays
 
 ## Overview
 
